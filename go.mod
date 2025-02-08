@@ -1,4 +1,4 @@
-module github.com/Noah-Chiu/BouncingBall
+module github.com/noahchiu22/BouncingBall
 
 go 1.22.4
 
